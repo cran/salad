@@ -59,7 +59,7 @@ log1p.dual <- dualFun1(log1p, \(x) 1/(1+x))
 
 #' @rdname MathFun
 #' @exportS3Method sqrt dual
-sqrt.dual <- function(x) { sqrtx <- sqrt(x); fastNewDual(sqrtx, product_diff(0.5/sqrtx, x@d)) }
+sqrt.dual <- function(x) { sqrtx <- sqrt(x@x); fastNewDual(sqrtx, product_diff(0.5/sqrtx, x@d)) }
 
 # ------------------ trigo
 #' @rdname MathFun

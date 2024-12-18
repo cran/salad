@@ -1,7 +1,7 @@
-0b7dd73d4213999088a7f981aa9c100c *DESCRIPTION
+eafbc11333f117a97548bd4799be0e95 *DESCRIPTION
 339309cbd31f4810aef7bfcc1f05562e *LICENSE
 3dc7f69714e9815ae95e320765a14085 *NAMESPACE
-0ce0c024397a7579e0c0460f60e94fd8 *NEWS.md
+0476c18aa7384a8b15e80f0c5508c28d *NEWS.md
 626224d8901189e45890ff45c30328a2 *R/adjugate.r
 0d8e2300c11dfa0f079b346ad4fc75e4 *R/class-1-unions.r
 d814372146c20da02465f2062b53da6b *R/class-2-differential.r
@@ -26,7 +26,7 @@ cb05261ee3bd1c89ec8463a1e441e807 *R/differential-subsetting.r
 2b6494437a670407cec0361befeeb09c *R/dual-dualFun1.r
 040c356e70234fd0da3e136d60a25d8b *R/dual-ifelse.r
 5d7dd171491c4ba6a5d20b25b443985e *R/dual-length-dim-names.r
-6f1df9a5a95fb20fcae2300ee87a6a4a *R/dual-math.r
+a87106e785612705bbe4902a2f04aaa3 *R/dual-math.r
 51e7f3f58f1756228f9659b7c488fa2f *R/dual-matrix-arithmetic.r
 21b33f8280970c57fe10b1718c3269f6 *R/dual-matrix-as-matrix-as-vector.r
 7079e7f3b87c5ea5efdd632fe2734ba7 *R/dual-matrix-det-solve.r
@@ -50,10 +50,10 @@ f09542350ac81e50d7f349f348fe52ab *R/prodskip1.r
 9127f977f2c1eca675f64fd01a648d2f *R/salad.r
 834c7cb448705c87d6e380d9330d568a *R/subassign.r
 b6a871e357e53b7561993b0a5cacfcf8 *R/zzz.r
-662f0aa1bf74414f79332867b01fd0a1 *build/vignette.rds
+8c5a60b4005e89b51138d2bf8c860e20 *build/vignette.rds
 d8601af12546feda48a5f1761683770c *inst/doc/salad.R
 bfbb1947e59a110ea33a9bf749d671e4 *inst/doc/salad.Rmd
-55c67409c0687eb641a2f57fa48791d7 *inst/doc/salad.html
+d50c7b54bffb61e3f6ea8b32624bcc1a *inst/doc/salad.html
 a74129d689cab094c15bd0518939b7f1 *man/Arithmetic.Rd
 5b2ac14c377b7d8bbf9e80edd72d667f *man/Comparison.Rd
 5f511dfd1cd50ec77dc43d5315ec58a3 *man/MathFun.Rd

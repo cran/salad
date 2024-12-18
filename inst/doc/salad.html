@@ -12,7 +12,7 @@
 
 <meta name="author" content="Hervé Perdry" />
 
-<meta name="date" content="2024-11-04" />
+<meta name="date" content="2024-12-18" />
 
 <title>salad package</title>
 
@@ -357,7 +357,7 @@ code > span.er { color: #a61717; background-color: #e3d2d2; }
 <h1 class="title toc-ignore">salad package</h1>
 <h3 class="subtitle">Version 1.0</h3>
 <h4 class="author">Hervé Perdry</h4>
-<h4 class="date">2024-11-04</h4>
+<h4 class="date">2024-12-18</h4>
 
 
 
@@ -672,7 +672,7 @@ div.sourceCode {
 <p>This allows you to use special functions that salad can’t handle; moreover, even for simple functions like this one, it saves some time:</p>
 <div class="sourceCode" id="cb89"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb89-1"><a href="#cb89-1" aria-hidden="true"></a><span class="kw">system.time</span>( <span class="cf">for</span>(i <span class="cf">in</span> <span class="dv">1</span><span class="op">:</span><span class="dv">500</span>) <span class="kw">f</span>(x) )</span></code></pre></div>
 <pre><code>##    user  system elapsed 
-##   0.012   0.000   0.012</code></pre>
+##   0.018   0.000   0.019</code></pre>
 <div class="sourceCode" id="cb91"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb91-1"><a href="#cb91-1" aria-hidden="true"></a><span class="kw">system.time</span>( <span class="cf">for</span>(i <span class="cf">in</span> <span class="dv">1</span><span class="op">:</span><span class="dv">500</span>) <span class="kw">f1</span>(x) )</span></code></pre></div>
 <pre><code>##    user  system elapsed 
 ##   0.004   0.000   0.004</code></pre>

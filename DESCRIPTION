@@ -1,8 +1,8 @@
 Package: salad
 Type: Package
 Title: Simple Automatic Differentiation
-Version: 1.1
-Date: 2024-11-02
+Version: 1.2
+Date: 2024-12-18
 Authors@R: person("Hervé", "Perdry", email = "herve.perdry@universite-paris-saclay.fr", role = c("aut", "cre"))
 Maintainer: Hervé Perdry <herve.perdry@universite-paris-saclay.fr>
 Description: Handles both vector and matrices, using a flexible S4 class for automatic differentiation.
@@ -17,7 +17,7 @@ Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-11-04 15:20:32 UTC; rv
+Packaged: 2024-12-18 12:21:06 UTC; rv
 Author: Hervé Perdry [aut, cre]
 Repository: CRAN
-Date/Publication: 2024-11-04 19:30:02 UTC
+Date/Publication: 2024-12-18 12:30:02 UTC
